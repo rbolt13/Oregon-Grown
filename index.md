@@ -1,4 +1,4 @@
-## Project By Randi Bolt
+## Cannabis Dispensary Diversity
 
 ### Introduction
 
@@ -58,10 +58,11 @@ this gives some explanation
 
 This is where the conclusion will be
 
-### Support or Contact
+### Contact
 
 ```
 Email: rbolt@pdx.edu
+LinkedIn: https://www.linkedin.com/in/randi-bolt-ab20771b0/
 ```
 
 <!--
