@@ -6,7 +6,8 @@ A state known for growing all varieties of trees and greenery, it’s no wonder 
 
 ```
 <stoney picture>
-The above image is of COVID-19 essential employees of Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. Credit: https://www.instagram.com/stoney_only/
+The above image is of COVID-19 essential employees of Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. 
+Credit: https://www.instagram.com/stoney_only/
 ```
 ### Background
 
@@ -25,7 +26,19 @@ Before collecting spatial references I made sure my map had the standard Lambert
 Additionally I wanted to further investigate the diversity of those areas most dense in dispensaries. To do so I used select by attribute to export out the single dispensaries, multiple dispensaries, and each of the Big Four classified earlier as Groundworks, Mr. Nice Guys, Nectar, and La Mota as individual feature classes. Then I used a spatial join of the city limits and each of the feature classes that were just exported to obtain an attribute table similar to **Table 1** below, which shows the data for the ugb and Oregon's 10 cities densist in dispensaries. 
 
 ```
-Table 1
+| City Name     | Dispensary    | Groundworks  | Mr.Nice Guy | Nectar  | La Mota  |
+| :-----------: |:-------------:| :-----------:| :---------: | :----:  | :------: |
+| ugb     | 262 | 25 | 4 | 14 | 11 |
+| Portland  | 196 | 10 | 3 | 8 | 8 |
+| Salem | 50 | 0 | 4 | 2 | 0 |
+| Eugene | 49 | 1 | 1 | 2 | 1 |
+| Medford | 26 | 0 | 1 | 0 | 6 |
+| Bend | 24 | 0 | 1 | 0 | 0 |
+| Corvallis | 15 | 0 | 2 | 0 | 0 |
+| Springfield |12 | 0 | 1 | 1 | 0 |
+| Roseburg | 11 | 0 | 0 | 0 | 2 |
+| Beaverton | 10 | 1 | 0 | 2 | 0 |
+| Astoria | 8 | 0 | 2 | 0 | 0 |
 **Table 1**: Oregon's 10 Dispensary Dense Cities, and Portland UGB
 ```
 
