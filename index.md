@@ -46,31 +46,50 @@ Additionally I wanted to further investigate the diversity of those areas most d
 With the data leading the way in cartographic decision making, the last tool I used was cut. Since Portland’s ugb was it’s own shapefile, the first cut to make was all the cities that weren’t Portland, Salem, Eugene, or Medford. I next clipped the highways (for reference), and each of the big four dispensaries for both Portland’s ugb and the 4 cities previously stated. Lastly for Portland’s ugb maps I cut the rivers, as well as the single and multiple dispensaries to fit within those boundaries. The last small note to add is that in the last map the cities are colored differently because it has Graduated Colors for it’s primary symbology on the dispensary join. In the final map design it made more sense to me to put the number of dispensaries per city in each map under the city name, rather than to add another legend with ranged values that wouldn’t necessarily make sense at first glance.
 
 ```
-Map 1
+<Map 1>
+**Dispensary Diversity**: above shows dispensary diversity in Oregon as of November 2020. The image of Oregon on the left shows all 695 dispensaries, whereas the map on the right only shows the locations of the largest four dispensaries in Oregon: La Mota, Groundworks, Mr.Nice Guy, and Nectar. 
 ```
 ### Dispensary Diversity
 
-this gives some explanation . . .
+Highlighted above in map 1, **Dispensary Diversity** the data shows us that more than half of dispensaries in Oregon are owned by a chain, and that one in ten of all dispensaries in Oregon are owned by either La Mota, Groundworks, Mr.Nice Guy, or Nectar. 
 
+
+To speculation on certain trends, La Mota and Mr.Nice Guy’s presence along I-5 could be in preparation of federal legalization, and ready accessiblity to Californa's market. It could also be related to proximity of cannabis farms. Nectar locations have reputations of being large “Warehouse” size dispensaries, that probably deal with a lot of bulk purchases, which this project takes no account of. Groundworks on the other hand has its own indoor farm called Pruf Cultivar located North of Portland by the airport. Since their dispensaries mostly sell their flower, it makes sense to keep most if not all of Groundworks locations in the Portland area (near their farm). Especially considering Groundworks has footing in California with more than 11 California dispesaries and growing. 
 
 ```
-Map 2
+<Map 2>
+**MJ in Portland's UGB*: In the image on the left are  261 of Oregon’s 695 dispensaries ( that’s almost 40%) with yellow plus signs indicating 140 multiple dispensaries and the green plus signs indicated the 121 single business dispensaries. To the right of that image is also Portland’s ugb, but only showing the largest four dispensaries in Oregon. Note MJ is a common short hand for Mary Jane a _slang_ term for Marijuanna. 
 ```
 ### MJ in Portland's UGB
 
-this gives some explanation . . .
-
+The first point noted on this map is that the percentages for the urban growth boundary matches that of Oregon. Meaning about 53% of dispensaries in Portland’s urban growth boundary are chains. Another point to add is that one in ten of overall dispensaries in this area is owned by Groundworks, and according to their website their are plans to buy even more dispensaries in this area in 2021. Additionally about 20% of dispeensaries in Portland urban growth boundry are owned by one of the big four chains: Groundworks, La Mota, Nectar, or Mr. Nice Guy. To add a cartographic note about this map, the cross signs were initally used on the maps to match the common green outlines white plus sign symbology that is assosicated with dispensaries. Changing the cross signs to other symbology even dot’s did not change the clutter-ness of the left side map in Map 2. To counteract the heiracrhy that would to show a more accurate 50/50 split I increased the transparency of both the inside of the yellow cross and it’s orange border. Additionally, in regards to the symbology for Nectar. I played around with darker / more vibrant colors, as well as giving it a higher ranking order, but felt it detracted from the trends I was trying to visually highlight.
 
 ```
-Map 3
+<Map 3>
+**Densest Cities Dealing Dope**: shows the top four most dispensary dense cities and where the four biggest chain dispensaries are approximately located in each.
 ```
 ### Densest Cities Dealing Dope
 
-this gives some explanation
+Three important points highlighted on this map are that 8% of dispensaries in Portland (not the ubg, just Portland) are owned by Groundworks, 8% of dispensaries in Salem are owned by Mr.Nice Guy, and almost ¼ th (23%) of the dispensaries in Medford are owned by La Mota. Not mentioned on this map, but commented about in this paper was about LLC’s, and how La Mota has two in Medford. The main reason this stuck out to me was because there are six La Mota’s in Medford, but it only looks like five on the map because two of those La Motas are around the corner from each other. Doing further research, it only appears that there are 5 La Mota’s in Medford even though there are six licenses. If time wasn’t a limiting factor on this project it would have been beneficial to do more research on the business of cannabis dispensaries to better speculate on some of these outliers and trends. 
 
 ### Conclusion 
 
-This is where the conclusion will be
+When I first started this project, I was coming from a two year history in a cannabis market that to me looked highly dominated by white males who felt DEI training did not apply to them. Initially I wanted to look at the sex and race of dispensary owners, but ran into a road block when collecting this data. The first being time and the second being secrecy. Since cannabis has been recreationally legal for less than ten years, most people in the industry still go by their alliance from prohibition online. Meaning more time would have been needed to research individuals especially from the single non chain dispensaries. However if this project were to continue that would be the next area I would look at. Added in whether or not the owner is an Oregon resident or not. 
+
+### Special Thanks
+
+
+
+```
+### Sources
+OLCC Data Set: 
+Oregon Spatial Library: 
+Groundworks Website:
+Mr.Nice Guys Website: 
+Nectar Website:
+La Mota Website:
+Willamette Article[2018]:https://www.wweek.com/news/2018/05/16/deep-pocketed-investors-are-storming-oregons-cannabis-market-theyre-shifting-the-business-model-from-mom-and-pop-shops-to-starbucks/ 
+```
 
 ### Contact
 
