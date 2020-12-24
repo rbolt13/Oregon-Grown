@@ -39,6 +39,7 @@ Additionally I wanted to further investigate the diversity of those areas most d
 | Roseburg | 11 | 0 | 0 | 0 | 2 |
 | Beaverton | 10 | 1 | 0 | 2 | 0 |
 | Astoria | 8 | 0 | 2 | 0 | 0 |
+
 ```
 **Table 1**: Oregon's 10 Dispensary Dense Cities, and Portland UGB
 ```
@@ -70,24 +71,30 @@ The first point noted on this map is that the percentages for the urban growth b
 ```
 ### Densest Cities Dealing Dope
 
-Three important points highlighted on this map are that 8% of dispensaries in Portland (not the ubg, just Portland) are owned by Groundworks, 8% of dispensaries in Salem are owned by Mr.Nice Guy, and almost ¼ th (23%) of the dispensaries in Medford are owned by La Mota. Not mentioned on this map, but commented about in this paper was about LLC’s, and how La Mota has two in Medford. The main reason this stuck out to me was because there are six La Mota’s in Medford, but it only looks like five on the map because two of those La Motas are around the corner from each other. Doing further research, it only appears that there are 5 La Mota’s in Medford even though there are six licenses. If time wasn’t a limiting factor on this project it would have been beneficial to do more research on the business of cannabis dispensaries to better speculate on some of these outliers and trends. 
+Highlighted on this map are that 8% of dispensaries in Portland (not the ubg) are owned by Groundworks, 8% of dispensaries in Salem are owned by Mr.Nice Guy, and almost ¼ th (23%) of the dispensaries in Medford are owned by La Mota. Not mentioned on this map, but commented about in this paper was about LLC’s, and how La Mota has two in Medford. The main reason this stuck out to me was because there are six La Mota’s in Medford, but it only looks like five on the map because two of those La Motas are around the corner from each other. Doing further research, it only appears that there are 5 La Mota’s in Medford even though there are six licenses. If time wasn’t a limiting factor on this project it would have been beneficial to do more research on the business of cannabis dispensaries to better speculate on some of these outliers and trends in big canna-buisness. 
 
 ### Conclusion 
 
-When I first started this project, I was coming from a two year history in a cannabis market that to me looked highly dominated by white males who felt DEI training did not apply to them. Initially I wanted to look at the sex and race of dispensary owners, but ran into a road block when collecting this data. The first being time and the second being secrecy. Since cannabis has been recreationally legal for less than ten years, most people in the industry still go by their alliance from prohibition online. Meaning more time would have been needed to research individuals especially from the single non chain dispensaries. However if this project were to continue that would be the next area I would look at. Added in whether or not the owner is an Oregon resident or not. 
+When I first started this project, I was coming from a two year history of privlidge selling cannabis legally as a white woman, in an industry that to me felt like it seperated itself from issues surrounding social justice in a similar way that big fast food chains would seperate themselves from issues surrounding obesity. Unlike obsity, however the cannabis market was legalized intererly by social activism, and when I first proposed this project wanted to look specifically at the sex and race or the owner. However unlike large chains smalled dispensaries owners were not unfamiliar with cannabis prohibition, and still go by their former alliaces which made finding the demographics for those dispensaries difficult. 
+
+If I were to add to this project there are three different avenues I'd potentially take. 
+1. Expand area from Oregon to include West Coast states Washington and California.
+2. Expand focus from cannabis dispensaries to include cannabis manufacuters and farms.
+3. Indoor Farms vs. Outdoor Farms 
 
 ### Special Thanks
 
+Special thanks to my Professor Alicia Milligan for teaching me about GIS and being a huge support duing this entire project, and Amy Valley at Stoney Only for not only being a friend and a mentor, but for allowing me the tools, access, and support to learn and grow in any way I chose at my time at Stoney Only. 
 
 
 ```
 ### Sources
-OLCC Data Set: 
-Oregon Spatial Library: 
-Groundworks Website:
-Mr.Nice Guys Website: 
-Nectar Website:
-La Mota Website:
+OLCC Data Set: https://www.oregon.gov/olcc/marijuana/Pages/Recreational-Marijuana-Licensing.aspx
+Oregon Spatial Library: https://spatialdata.oregonexplorer.info/geoportal/
+Groundworks Website: https://www.gw-ind.com/
+Mr.Nice Guys Website: https://www.mrniceguyretail.com/home
+Nectar Website: https://nectar.store/
+La Mota Website: https://www.lamota.com/
 Willamette Article[2018]:https://www.wweek.com/news/2018/05/16/deep-pocketed-investors-are-storming-oregons-cannabis-market-theyre-shifting-the-business-model-from-mom-and-pop-shops-to-starbucks/ 
 ```
 
