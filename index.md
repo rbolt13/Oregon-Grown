@@ -59,7 +59,7 @@ To speculation on certain trends, La Mota and Mr.Nice Guy’s presence along I-5
 
 
 ![map2](/assets/UGB.png)
-**MJ in Portland's UGB*: In the image on the left are  261 of Oregon’s 695 dispensaries ( that’s almost 40%) with yellow plus signs indicating 140 multiple dispensaries and the green plus signs indicated the 121 single business dispensaries. To the right of that image is also Portland’s ugb, but only showing the largest four dispensaries in Oregon. Note MJ is a common short hand for Mary Jane a _slang_ term for Marijuanna. 
+**MJ in Portland's UGB**: In the image on the left are  261 of Oregon’s 695 dispensaries ( that’s almost 40%) with yellow plus signs indicating 140 multiple dispensaries and the green plus signs indicated the 121 single business dispensaries. To the right of that image is also Portland’s ugb, but only showing the largest four dispensaries in Oregon. Note MJ is a common short hand for Mary Jane a _slang_ term for Marijuanna. 
 
 ### MJ in Portland's UGB
 
