@@ -87,13 +87,13 @@ If I were to add to this project there are three different avenues I'd potential
 Special thanks to my Professor Alicia Milligan for teaching me about GIS and being a huge support duing this entire project, and Amy Valley at Stoney Only for not only being a friend and a mentor, but for allowing me the tools, access, and support to learn and grow in any way I chose at my time at Stoney Only. 
 
 ### Sources
-OLCC Data Set: https://www.oregon.gov/olcc/marijuana/Pages/Recreational-Marijuana-Licensing.aspx
-Oregon Spatial Library: https://spatialdata.oregonexplorer.info/geoportal/
-Groundworks Website: https://www.gw-ind.com/
-Mr.Nice Guys Website: https://www.mrniceguyretail.com/home
-Nectar Website: https://nectar.store/
-La Mota Website: https://www.lamota.com/
-Willamette Article[2018]:https://www.wweek.com/news/2018/05/16/deep-pocketed-investors-are-storming-oregons-cannabis-market-theyre-shifting-the-business-model-from-mom-and-pop-shops-to-starbucks/ 
+- OLCC Data Set: https://www.oregon.gov/olcc/marijuana/Pages/Recreational-Marijuana-Licensing.aspx
+- Oregon Spatial Library: https://spatialdata.oregonexplorer.info/geoportal/
+- Groundworks Website: https://www.gw-ind.com/
+- Mr.Nice Guys Website: https://www.mrniceguyretail.com/home
+- Nectar Website: https://nectar.store/
+- La Mota Website: https://www.lamota.com/
+- Willamette Article[2018]:https://www.wweek.com/news/2018/05/16/deep-pocketed-investors-are-storming-oregons-cannabis-market-theyre-shifting-the-business-model-from-mom-and-pop-shops-to-starbucks/ 
 
 
 ### Contact
