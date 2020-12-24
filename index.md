@@ -4,15 +4,15 @@
 
 A state known for growing all varieties of trees and greenery, it’s no wonder that Oregon was one of the first states to legalize recreational cannabis in 2014. Measure 91 changed the lives of both those affiliated with cannabis and those who benefit from the tax revenue it brings in. While many businesses and industries struggled in 2020 due to COVID-19 the cannabis industry kept growing. According to the Oregon Liquor Control Commission (OLCC) between January and September of 2020 the state and local taxes for cannabis sales tax in Oregon was more than $134 million. That is already slightly more than the cannabis sales tax for the entire year of 2019.  With that much money, and more to come this project aims to investigate the diversity of dispensaries look like in Oregon November 2020, 8 years after recreational legalization. 
 
-```
+
 ![Stoney_Only_Pic](/assets/Stoney.JPG)
 The above image is of COVID-19 essential employees of Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. 
 Credit: https://www.instagram.com/stoney_only/
-```
+
 ### Background
-
+```
 Two years ago, in May 2018 Willamette Weekly wrote an article about the Oregon cannabis industry that said, “... more than 1 in 5 of Oregon’s 544 dispensaries now belong to a chain.”. In that same article the author wrote about the owner of Chalice who helped write House Bill 4014 in 2016 which revoked the residency requirement from House Bill 3400 in 2015.  This meant there was no longer a 51% requirement for any cannabis owned business to be owned by an Oregonian of at least two years. To raise the stakes even higher, a year after this article was written in 2019 Kate Brown passed Bill 582 which would make it legal to transport cannabis over state lines when it becomes federally legal. Meaning that cannabis companies that already have business in recreationally legal neighboring states such as Washington, California, and Nevada will already have a leg up doing business with Oregon if they already established cannabis businesses in Oregon. Particularly dispensaries, since that is the avenue in which any cannabis product can be legally sold. Something else to mention about Oregon cannabis dispensary licenses is that unlike other states who have legalized cannabis after Oregon, such as Chicago, there was no lottery or easy way for illegal drug dealers or healers to transition their businesses legally. Seeming to disconnect the legal cannabis industry even further from the people of color who have been historically associated (and criminalized) with illegal cannabis.
-
+```
 ### Data Collection
 
 To get a better understanding of the diversity of dispensaries in Oregon as current as November 2020 the first step of this project was to get that data set of Active Marijuanan Retail Licenses from the OLCC’s website. This data set included useful information to this project such as the Trade Name, County, Street Address, Postal City and Zip codes for all active licenses. I then saved and sorted the data alphabetically by Trade Name, and sadded two more columns to my data to investigate. The first column, Business, was looking at how many dispensaries had multiple locations (with the same name or owner) compared to those that had only a single location. The second column added, Big Four, was left for all dispensaries unless they were owned by Groundworks (Electric Lettuce, Serra, Pharma), Mr.Nice Guy, Nectar, and La Mota. With the modified data,  I was able to copy the spreadsheet into a google sheet and use Geocode by Awesome Table to add the latitude and longitude coordinates for each dispensary. 
