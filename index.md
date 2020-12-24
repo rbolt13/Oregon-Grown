@@ -39,8 +39,9 @@ Additionally I wanted to further investigate the diversity of those areas most d
 | Roseburg | 11 | 0 | 0 | 0 | 2 |
 | Beaverton | 10 | 1 | 0 | 2 | 0 |
 | Astoria | 8 | 0 | 2 | 0 | 0 |
-
+```
 **Table 1**: Oregon's 10 Dispensary Dense Cities, and Portland UGB
+```
 
 With the data leading the way in cartographic decision making, the last tool I used was cut. Since Portland’s ugb was it’s own shapefile, the first cut to make was all the cities that weren’t Portland, Salem, Eugene, or Medford. I next clipped the highways (for reference), and each of the big four dispensaries for both Portland’s ugb and the 4 cities previously stated. Lastly for Portland’s ugb maps I cut the rivers, as well as the single and multiple dispensaries to fit within those boundaries. The last small note to add is that in the last map the cities are colored differently because it has Graduated Colors for it’s primary symbology on the dispensary join. In the final map design it made more sense to me to put the number of dispensaries per city in each map under the city name, rather than to add another legend with ranged values that wouldn’t necessarily make sense at first glance.
 
