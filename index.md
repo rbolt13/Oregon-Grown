@@ -6,8 +6,8 @@ A state known for growing all varieties of trees and greenery, it’s no wonder 
 
 
 ![Stoney_Only_Pic](/assets/Stoney.JPG)
-The above image is of COVID-19 essential employees of Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. 
-Credit: https://www.instagram.com/stoney_only/
+The above image is of COVID-19 essential employees at Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. 
+Source: https://www.instagram.com/stoney_only/
 
 ### Background
 
