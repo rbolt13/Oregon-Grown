@@ -1,3 +1,5 @@
+## Project By Randi Bolt
+
 ### Introduction
 
 A state known for growing all varieties of trees and greenery, it’s no wonder that Oregon was one of the first states to legalize recreational cannabis in 2014. Measure 91 changed the lives of both those affiliated with cannabis and those who benefit from the tax revenue it brings in. While many businesses and industries struggled in 2020 due to COVID-19 the cannabis industry kept growing. According to the Oregon Liquor Control Commission (OLCC) between January and September of 2020 the state and local taxes for cannabis sales tax in Oregon was more than $134 million. That is already slightly more than the cannabis sales tax for the entire year of 2019.  With that much money, and more to come this project aims to investigate the diversity of dispensaries look like in Oregon November 2020, 8 years after recreational legalization. 
