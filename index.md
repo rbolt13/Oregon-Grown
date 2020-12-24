@@ -5,7 +5,7 @@
 A state known for growing all varieties of trees and greenery, it’s no wonder that Oregon was one of the first states to legalize recreational cannabis in 2014. Measure 91 changed the lives of both those affiliated with cannabis and those who benefit from the tax revenue it brings in. While many businesses and industries struggled in 2020 due to COVID-19 the cannabis industry kept growing. According to the Oregon Liquor Control Commission (OLCC) between January and September of 2020 the state and local taxes for cannabis sales tax in Oregon was more than $134 million. That is already slightly more than the cannabis sales tax for the entire year of 2019.  With that much money, and more to come this project aims to investigate the diversity of dispensaries look like in Oregon November 2020, 8 years after recreational legalization. 
 
 ```
-<stoney picture>
+![Stoney_Only_Pic](/assets/Stoney.JPG)
 The above image is of COVID-19 essential employees of Stoney Only Clackamas wearing 'gas masks' on 4/20/2020. 
 Credit: https://www.instagram.com/stoney_only/
 ```
@@ -47,7 +47,7 @@ Additionally I wanted to further investigate the diversity of those areas most d
 With the data leading the way in cartographic decision making, the last tool I used was cut. Since Portland’s ugb was it’s own shapefile, the first cut to make was all the cities that weren’t Portland, Salem, Eugene, or Medford. I next clipped the highways (for reference), and each of the big four dispensaries for both Portland’s ugb and the 4 cities previously stated. Lastly for Portland’s ugb maps I cut the rivers, as well as the single and multiple dispensaries to fit within those boundaries. The last small note to add is that in the last map the cities are colored differently because it has Graduated Colors for it’s primary symbology on the dispensary join. In the final map design it made more sense to me to put the number of dispensaries per city in each map under the city name, rather than to add another legend with ranged values that wouldn’t necessarily make sense at first glance.
 
 
-![map1](/assets/map1pic.png)
+![map1](/assets/Dispensary Diversity.png)
 **Dispensary Diversity**: above shows dispensary diversity in Oregon as of November 2020. The image of Oregon on the left shows all 695 dispensaries, whereas the map on the right only shows the locations of the largest four dispensaries in Oregon: La Mota, Groundworks, Mr.Nice Guy, and Nectar. 
 
 ### Dispensary Diversity
@@ -58,7 +58,7 @@ Highlighted above in map 1, **Dispensary Diversity** the data shows us that more
 To speculation on certain trends, La Mota and Mr.Nice Guy’s presence along I-5 could be in preparation of federal legalization, and ready accessiblity to Californa's market. It could also be related to proximity of cannabis farms. Nectar locations have reputations of being large “Warehouse” size dispensaries, that probably deal with a lot of bulk purchases, which this project takes no account of. Groundworks on the other hand has its own indoor farm called Pruf Cultivar located North of Portland by the airport. Since their dispensaries mostly sell their flower, it makes sense to keep most if not all of Groundworks locations in the Portland area (near their farm). Especially considering Groundworks has footing in California with more than 11 California dispesaries and growing. 
 
 
-<Map 2>
+![map2](/assets/UGB.png)
 **MJ in Portland's UGB*: In the image on the left are  261 of Oregon’s 695 dispensaries ( that’s almost 40%) with yellow plus signs indicating 140 multiple dispensaries and the green plus signs indicated the 121 single business dispensaries. To the right of that image is also Portland’s ugb, but only showing the largest four dispensaries in Oregon. Note MJ is a common short hand for Mary Jane a _slang_ term for Marijuanna. 
 
 ### MJ in Portland's UGB
@@ -66,7 +66,7 @@ To speculation on certain trends, La Mota and Mr.Nice Guy’s presence along I-5
 The first point noted on this map is that the percentages for the urban growth boundary matches that of Oregon. Meaning about 53% of dispensaries in Portland’s urban growth boundary are chains. Another point to add is that one in ten of overall dispensaries in this area is owned by Groundworks, and according to their website their are plans to buy even more dispensaries in this area in 2021. Additionally about 20% of dispeensaries in Portland urban growth boundry are owned by one of the big four chains: Groundworks, La Mota, Nectar, or Mr. Nice Guy. To add a cartographic note about this map, the cross signs were initally used on the maps to match the common green outlines white plus sign symbology that is assosicated with dispensaries. Changing the cross signs to other symbology even dot’s did not change the clutter-ness of the left side map in Map 2. To counteract the heiracrhy that would to show a more accurate 50/50 split I increased the transparency of both the inside of the yellow cross and it’s orange border. Additionally, in regards to the symbology for Nectar. I played around with darker / more vibrant colors, as well as giving it a higher ranking order, but felt it detracted from the trends I was trying to visually highlight.
 
 
-<Map 3>
+![map3](/assets/Densest Cities.png)
 **Densest Cities Dealing Dope**: shows the top four most dispensary dense cities and where the four biggest chain dispensaries are approximately located in each.
 
 ### Densest Cities Dealing Dope
