@@ -99,8 +99,6 @@ Special thanks to my Professor Alicia Milligan for teaching me about GIS and bei
 
 ### Contact
 
-![Randi](/assets/IMG_2530.JPG)
-
 ```
 Email: rbolt@pdx.edu
 LinkedIn: https://www.linkedin.com/in/randi-bolt-ab20771b0/
