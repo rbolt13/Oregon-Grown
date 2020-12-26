@@ -75,7 +75,7 @@ Highlighted on this map are that 8% of dispensaries in Portland (not the UGB) ar
 
 ### Conclusion 
 
-When I first started this project, I was coming from a two year history of privilege selling cannabis legally as a white woman, in an industry that to me felt like it separated itself from issues surrounding social justice in a similar way that big fast food chains would separate themselves from issues surrounding obesity. Unlike obesity, the cannabis market was legalized entirely by social activism, and when I first proposed this project, I wanted to look specifically at the sex and race or the owner. However unlike large chains smaller dispensaries owners were not unfamiliar with cannabis prohibition, and still go by their former alliances which made finding the demographics for those dispensaries difficult.
+When I first started this project, I was coming from a two year history of privilege selling cannabis legally as a white woman, in an industry that to me felt like it separated itself from issues surrounding social justice in a similar way that big fast food chains would separate themselves from issues surrounding obesity. Unlike obesity, the cannabis market was legalized entirely by social activism, and when I first proposed this project, I wanted to look specifically at the sex and race or the owner. However unlike large chains smaller dispensaries owners were not unfamiliar with cannabis prohibition, and still go by their former alias which made finding the demographics for those dispensaries difficult.
 
 If I were to add to this project there are three different avenues I’d potentially take are:
 1. Expand area study to include West Coast states Washington and California.
